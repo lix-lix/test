@@ -1,0 +1,2 @@
+E:\Черноскутов\лабы\лаба2\тестирование\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Черноскутов\лабы\лаба2\тестирование\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
